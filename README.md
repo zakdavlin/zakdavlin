@@ -1,16 +1,12 @@
-### Hi there 👋
+### Hello! 👋
+I'm Zak I currently reside in Missouri. I am in the process of switching careers out of eduaction in to a data analyst role. 
 
-<!--
-**zakdavlin/zakdavlin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Skills
+*Python
+  *Beautifulsoup
+  *Scikit learn
+  *rabbitmq
+  *pandas
+  *numpy
+*SQL and Non relational data bases
+*HTML, CSV and JSON file formats
