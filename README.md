@@ -8,5 +8,5 @@ I'm Zak I currently reside in Missouri. I am in the process of switching careers
   *  rabbitmq
   *  pandas
   *  numpy
-*  SQL and Non relational data bases
+*  SQL and Non relational databases
 *  HTML, CSV and JSON file formats
