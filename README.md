@@ -3,6 +3,7 @@ I'm Zak I currently reside in Missouri. I am in the process of switching careers
 
 ### Skills
 *  Python
+  *  Spacy
   *  Beautifulsoup
   *  Scikit learn
   *  rabbitmq
